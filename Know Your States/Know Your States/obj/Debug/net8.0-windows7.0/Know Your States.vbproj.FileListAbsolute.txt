@@ -1,0 +1,18 @@
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\bin\Debug\net8.0-windows7.0\Know Your States.exe
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\bin\Debug\net8.0-windows7.0\Know Your States.deps.json
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\bin\Debug\net8.0-windows7.0\Know Your States.runtimeconfig.json
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\bin\Debug\net8.0-windows7.0\Know Your States.dll
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\bin\Debug\net8.0-windows7.0\Know Your States.pdb
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\obj\Debug\net8.0-windows7.0\Know_Your_States.Form1.resources
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\obj\Debug\net8.0-windows7.0\Know_Your_States.Resources.resources
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\obj\Debug\net8.0-windows7.0\Know Your States.vbproj.GenerateResource.cache
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\obj\Debug\net8.0-windows7.0\Know Your States.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\obj\Debug\net8.0-windows7.0\Know Your States.AssemblyInfoInputs.cache
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\obj\Debug\net8.0-windows7.0\Know Your States.AssemblyInfo.vb
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\obj\Debug\net8.0-windows7.0\Know Your States.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\obj\Debug\net8.0-windows7.0\Know Your States.sourcelink.json
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\obj\Debug\net8.0-windows7.0\Know Your States.dll
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\obj\Debug\net8.0-windows7.0\refint\Know Your States.dll
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\obj\Debug\net8.0-windows7.0\Know Your States.pdb
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\obj\Debug\net8.0-windows7.0\Know Your States.genruntimeconfig.cache
+C:\Users\foxrw\Source\Repos\Know-Your-States-Starter-Project\Know Your States\Know Your States\obj\Debug\net8.0-windows7.0\ref\Know Your States.dll
